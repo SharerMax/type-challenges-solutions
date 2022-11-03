@@ -1,0 +1,19 @@
+{
+  "name": "type-challenges-solutions",
+  "version": "1.0.0",
+  "description": "type challenges solutions",
+  "scripts": {
+    "test": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "Max Zhao",
+  "devDependencies": {
+    "@antfu/eslint-config-ts": "^0.29.3",
+    "@tsconfig/node18": "^1.0.1",
+    "eslint": "^8.26.0",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
